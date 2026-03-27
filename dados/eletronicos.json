@@ -1,0 +1,32 @@
+[  
+  {  
+    "product": "Motorola Smartphone",  
+    "price": 499.99,  
+    "ratings": 4.5,  
+    "affiliate_link": "https://example.com/motorola-smartphone"  
+  },  
+  {  
+    "product": "Sony Headphones",  
+    "price": 299.99,  
+    "ratings": 4.7,  
+    "affiliate_link": "https://example.com/sony-headphones"  
+  },  
+  {  
+    "product": "Apple Watch",  
+    "price": 399.99,  
+    "ratings": 4.8,  
+    "affiliate_link": "https://example.com/apple-watch"  
+  },  
+  {  
+    "product": "Samsung Tablet",  
+    "price": 349.99,  
+    "ratings": 4.6,  
+    "affiliate_link": "https://example.com/samsung-tablet"  
+  },  
+  {  
+    "product": "Canon Camera",  
+    "price": 799.99,  
+    "ratings": 4.9,  
+    "affiliate_link": "https://example.com/canon-camera"  
+  }  
+]
